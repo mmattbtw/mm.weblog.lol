@@ -1,3 +1,5 @@
+Type: Template Title: Page Template
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -180,19 +182,9 @@
     </header>
 
     <main>
-      <article>
-        {body}
-        <aside class="post-info">
-          <i class="fa-solid fa-clock"></i> {date}
-        </aside>
-        <aside class="post-tags">{tags}</aside>
-      </article>
+      <article>{body}</article>
 
       <hr />
-
-      <h2>Recent posts</h2>
-
-      {recent-posts}
     </main>
 
     <footer>
