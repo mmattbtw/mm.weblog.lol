@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 3
+          fetch-depth: 0
       - id: weblog_import
         uses: neatnik/weblog.lol@v1
         env:

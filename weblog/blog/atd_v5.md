@@ -7,6 +7,8 @@ category: "mmattDonk"
 imgUrl: "/images/ai_tts.webp"
 ---
 
+Type: post
+
 AI TTS Donations is changing...
 
 This announcement is containing 2 things:
