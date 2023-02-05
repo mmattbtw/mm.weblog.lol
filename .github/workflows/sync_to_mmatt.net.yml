@@ -1,0 +1,24 @@
+on: [push]
+
+name: ⏫ Sync to mmatt.net
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Copy the 'post' folder
+      - name: Push posts
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source_file: "weblog/" # Folder to copy
+          destination_repo: "mmattbtw/mmatt.net" # Target repo
+          destination_folder: "src/pages/blog/" # Folder where to copy it
+          user_email: "matt@mmatt.net"
+          user_name: "mmattbtw"
+          commit_message: "sync from mm.weblog.lol --> mmatt.net"
+          git_server: "github.com"
