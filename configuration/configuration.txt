@@ -6,7 +6,7 @@
 Weblog title: mm.weblog.lol
 Weblog description: matt's blog from mmatt.net
 Author: mmatt
-Landing page: /test
+Landing page: /home
 
 
 ;; General config stuff
