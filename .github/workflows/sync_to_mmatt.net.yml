@@ -18,6 +18,7 @@ jobs:
           source_file: "weblog/" # Folder to copy
           destination_repo: "mmattbtw/mmatt.net" # Target repo
           destination_folder: "src/pages/blog/" # Folder where to copy it
+          destination_branch: "master"
           user_email: "matt@mmatt.net"
           user_name: "mmattbtw"
           commit_message: "sync from mm.weblog.lol --> mmatt.net"
