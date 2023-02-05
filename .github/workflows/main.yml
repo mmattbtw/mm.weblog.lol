@@ -9,7 +9,7 @@ jobs:
         with:
           fetch-depth: 2
       - id: weblog_import
-        uses: neatnik/weblog.lol@main
+        uses: neatnik/weblog.lol@v1
         env:
           ADDRESS: mm
           WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
