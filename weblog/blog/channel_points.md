@@ -8,6 +8,7 @@ imgUrl: "/images/channelpoints.webp"
 ---
 
 Type: Post
+Date: 2023-01-01 00:00
 
 _originally written: [here](https://www.reddit.com/r/Twitch/comments/iw13xu/cool_channel_point_reward_ideas_and_how_to_set/_)
 
