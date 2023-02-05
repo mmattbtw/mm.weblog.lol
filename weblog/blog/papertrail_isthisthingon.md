@@ -8,6 +8,8 @@ imgUrl: "/images/papertrail_1_pic.webp"
 papertrail: true
 ---
 
+Type: Post
+
 # hello? does this thing work?
 
 thanks for signing up! v5 will be underway soon-ish.

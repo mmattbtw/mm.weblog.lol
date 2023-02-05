@@ -8,6 +8,8 @@ imgUrl: "/images/papertrail_2_pic.webp"
 papertrail: true
 ---
 
+Type: Post
+
 # v5 now has a working overlay prototype!
 
 ### _also v5 now has a project name: “project solrock”_ (random pokemon name = project name lol)

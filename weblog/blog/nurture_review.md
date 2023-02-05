@@ -7,6 +7,8 @@ category: "music"
 imgUrl: "/images/nurture.jpg"
 ---
 
+Type: Post
+
 ## ‼️ Disclaimer ‼️
 
 I am not a music reviewer!

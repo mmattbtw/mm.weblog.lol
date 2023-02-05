@@ -8,6 +8,8 @@ imgUrl: "/images/papertrail_4_pic.webp"
 papertrail: true
 ---
 
+Type: Post
+
 # project solrock is now in open beta!
 
 the day most of you subscribed have been waiting for, AI TTS Donations v5 (project solrock) is now in public beta!

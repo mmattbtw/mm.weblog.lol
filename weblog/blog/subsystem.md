@@ -8,6 +8,8 @@ imgUrl: "/images/utopia-subsystem.webp"
 unlisted: true
 ---
 
+Type: Post
+
 Hey! I assume you are reading this post after watching the reveal trailer for my new live show "virtuai self - utopia subsystem".
 
 If you haven't watched it yet, [go watch it!](https://www.youtube.com/watch?v=JoRotyPgCbc)

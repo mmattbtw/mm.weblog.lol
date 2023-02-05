@@ -8,6 +8,8 @@ imgUrl: "/images/papertrail_3_pic.webp"
 papertrail: true
 ---
 
+Type: Post
+
 # from twitch event to overlay now works!
 
 going from a twitch cheer event, to the audio processor, to the overlay now works! i’ve got a test video below to show :^)
