@@ -6,10 +6,9 @@ date: "07 Jul 2022"
 category: "music / virtuai self"
 imgUrl: "/images/utopia-subsystem.webp"
 unlisted: true
----
 
 Type: Post
-Date: 2023-01-01 00:00
+---
 
 Hey! I assume you are reading this post after watching the reveal trailer for my new live show "virtuai self - utopia subsystem".
 
