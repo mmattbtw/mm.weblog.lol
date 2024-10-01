@@ -3,9 +3,9 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog title: mm.weblog.lol
+Weblog title: mmatt.net/blog
 Weblog description: matt's blog from mmatt.net
-Author: mmatt
+Author: matt morris
 Landing page: /home
 
 
