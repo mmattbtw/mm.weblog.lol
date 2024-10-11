@@ -4,7 +4,7 @@ title: "media of the week! | ITS BACK!!!"
 description: "an reintroduction to the weekly 'media of the week' series that started on my Tumblr blog! its back! and now on mmatt.net"
 category: "media of the week"
 imgUrl: "/images/motw/motwINTRO.png"
-Date: 2024-8-10 17:59
+Date: 2024-10-10 23:35
 ---
 
 # media of the week is back!
@@ -29,3 +29,5 @@ all of the previous iterations of the series:
 - [4/19/2024](./motw_6)
 - [4/26/2024](./motw_7)
 - [5/3/2024](./motw_8)
+
+see you... tomorrow!
